@@ -1,0 +1,116 @@
+Financial Management ----------------------------------------------------------
+Revenue and gains - Increase in economic benefits during the account period
+Expenses - Decrease in economic benefits during the account period
+
+Financial period - Between 2 balance sheets
+
+Balance sheet
+  Assets, Liabilities, Equity
+  Equity = Assets - Liabilities
+
+Income Statement 
+  Financial result during a financial period
+  Specifies income and expenses from net income
+
+Cash Flow Statement
+  How CASH flowed (bank account)
+  Demonstrates the company's ability to generate cash
+  Tracks Money received / Money paid
+
+Formulas/concepts *
+
+Marketing ---------------------------------------------------------------------
+7 P's *
+
+Segmentation (Identifying groups of customers with similar preferences)
+  Geographic 
+  Socio-demographic
+  Psychographic
+  Behavioral
+
+Target Market
+  - Single-segment concentration
+  - Product specialization
+  - Market specialization
+  - Full market coverage
+
+Positioning
+  Act of designing the company’s offering and image to occupy a distinctive
+  place in the mind of the target marke
+
+Positioning Statement
+  Among (target market), our offering is the brand of (frame of reference) that
+  (point of difference) because (reason to believe)
+
+Points of Difference
+  Attributes or expected benefits that are strongly associated with the
+  offering, are valued by customers and cannot be found in competitors’
+  offerings
+
+SWOT Analysis
+  Strengths
+  Weaknesses
+  Opportunities
+  Threats
+
+Mission Statement (present business purpose)
+  "who we are and what we do"
+
+PESTEL analisys (macro-environment)
+  Political
+  Economic
+  Social
+  Technological
+  Environmental
+  Legal
+
+Industry Analysis/Environment
+  Interaction among these factors determine an industry’s profit potential
+  Porter’s Five Forces Model of Competition
+    - Threat of new entrants
+    - Power of supplies
+    - Power of buyers
+    - Product substitutes
+    - Intensity of rivalry
+
+
+Operations ----------------
+
+Operations strategy (future,general issues)
+  - Plan for developing resources and configuring processes such that the
+    resulting competencies maximize the NPV (Net Present Value)
+  - Enables competitive strategy
+  - Focus on developing assets and configuring processes
+
+Operations management (immediate,specific issues)
+  - Focus on appropriately utilizing given assets and processes
+
+Complementary Views
+  Resource view - focused on assets (balance sheet)
+    Sizing
+    Timing
+    Type
+    Location
+
+  Process view - focused on tasks (using assets to generate results)
+    Supply
+    Technology
+    Demand
+    Innovation
+
+  Competencies view - focused on characterizing what the operation can and cannot do
+    Cost
+    Time
+    Quality
+    Flexibility
+
+Principle of alignment
+  Operations strategy should develop resources and configure processes such
+  that the resulting competencies are aligned with (adapt to) the
+  competitive position that the firm seeks over time
+
+
+TODO --------------------------------------------------------------------------
+Ver exemplo da ZARA nos slides do operations ZARA
+Situação de falencia com profits (exemplo de exame modelo e aula)
+Ver outros exemplos das aulas maybe
